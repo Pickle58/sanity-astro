@@ -1,6 +1,7 @@
 {
-  "name": "sanity=astro",
+  "name": "sanity-astro",
   "compatibility_date": "2026-02-21",
+  "main": "src/index.ts",
   "assets": {
   "directory": "./dist"
  }
